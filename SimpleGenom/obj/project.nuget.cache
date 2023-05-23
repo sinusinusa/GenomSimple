@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "rFA0DYX3k/XnreUxu3Ql8vNey3QexEelkvKJQtdIplYSgy/p38JcUU0F/M0jUTJxwRIYfflNT1pddYBeFKxaOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drora\\source\\repos\\SimpleGenom\\SimpleGenom\\SimpleGenom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drora\\.nuget\\packages\\libnoise\\0.2.0\\libnoise.0.2.0.nupkg.sha512",
+    "C:\\Users\\drora\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\drora\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"LibNoise 0.2.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \"net6.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "LibNoise",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

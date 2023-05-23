@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/drora/source/repos/SimpleGenom/SimpleGenom/Content/block.jpg","C:/Users/drora/source/repos/SimpleGenom/SimpleGenom/Content/bin/DesktopGL/Content/block.xnb","TextureProcessor","Texture2DContent",749,10085,0.265067
+"C:/Users/drora/source/repos/SimpleGenom/SimpleGenom/Content/box.jpg","C:/Users/drora/source/repos/SimpleGenom/SimpleGenom/Content/bin/DesktopGL/Content/box.xnb","TextureProcessor","Texture2DContent",727,10085,0.3000795
+"C:/Users/drora/source/repos/SimpleGenom/SimpleGenom/Content/food.jpg","C:/Users/drora/source/repos/SimpleGenom/SimpleGenom/Content/bin/DesktopGL/Content/food.xnb","TextureProcessor","Texture2DContent",730,10085,0.0057625
+"C:/Users/drora/source/repos/SimpleGenom/SimpleGenom/Content/unit_dying.jpg","C:/Users/drora/source/repos/SimpleGenom/SimpleGenom/Content/bin/DesktopGL/Content/unit_dying.xnb","TextureProcessor","Texture2DContent",10798,10085,0.252138
+"C:/Users/drora/source/repos/SimpleGenom/SimpleGenom/Content/unit_hungry.jpg","C:/Users/drora/source/repos/SimpleGenom/SimpleGenom/Content/bin/DesktopGL/Content/unit_hungry.xnb","TextureProcessor","Texture2DContent",10356,10085,0.3517154
+"C:/Users/drora/source/repos/SimpleGenom/SimpleGenom/Content/unit.jpg","C:/Users/drora/source/repos/SimpleGenom/SimpleGenom/Content/bin/DesktopGL/Content/unit.xnb","TextureProcessor","Texture2DContent",1781,10085,0.1739338
